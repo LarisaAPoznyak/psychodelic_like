@@ -1,10 +1,12 @@
 # psychodelic_like
 Research project
 1. Preprocessing
-2. Events
-3. Analysis EEG
-4. Components
-5. Lz complexity
-6. Analysis PPG and EDA
+    -filters, ica, reg
+3. Events
+4. Analysis EEG
+   - powers
+6. Components
+7. Lz complexity
+8. Analysis PPG and EDA
 
 all questions can be adressed by email lapoznyak@edu.hse.ru
