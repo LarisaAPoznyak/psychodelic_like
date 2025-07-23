@@ -2,7 +2,9 @@
 
 **Virtual Reality as a Tool for Simulating Psychedelic-like States**
 
-> **📖 [Read the full article (PDF)](./Cyberdelics%20VR.pdf)**  
+<img width="955" height="748" alt="image" src="https://github.com/user-attachments/assets/114b580f-74a5-411a-b97e-bf494ccbb89b" />
+
+> **📖 [Read the full article (PDF)]()**  
 > *By [Author Name], HSE University*  
 > *(Published ___)*
 
