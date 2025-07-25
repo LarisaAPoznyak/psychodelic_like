@@ -42,10 +42,10 @@ Participants were immersed in geometric VR scenes while their **EEG**, **cardiac
 | Measure              | Hyperbolic vs. Control Cubes           | Fractals vs. Kaleidoscopes           |
 |----------------------|-----------------------------------------|--------------------------------------|
 | **Alpha Power (EEG)**| 🔻 Decreased (suggests psychedelic state)| No significant change               |
-| **LZ Complexity**    | 🔺 Higher in control (unexpected)        | No significant difference            |
+| **LZ Complexity**    |  No significant difference      | No significant difference            |
 | **Heart Rate**       | 🔺 Increased under hyperbolic scenes     | No significant effect                |
 | **EDA**              | ❌ No significant differences            | ❌ No significant differences         |
-| **Self-Reports**     | Honeycombs rated more complex           | Fractals ≈ Kaleidoscopes in ratings  |
+| **Self-Reports**     | Honeycombs rated more complex (?)           | Fractals ≈ Kaleidoscopes in ratings  |
 
 ---
 
@@ -69,7 +69,7 @@ Participants were immersed in geometric VR scenes while their **EEG**, **cardiac
 ## 🔍 Hypothesis Evaluation
 
 ✅ **H1:** Subjective complexity ↑ in honeycombs  
-✅ **H2 (partial):** Alpha ↓, LZc unexpectedly higher in control  
+✅ **H2 (partial):** Alpha ↓,  
 ✅ **H3 (partial):** Heart rate ↑, but EDA unchanged  
 
 ---
