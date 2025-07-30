@@ -37,55 +37,12 @@ Participants were immersed in geometric VR scenes while their **EEG**, **cardiac
 
 ---
 
-## 📊 Key Findings
-
-| Measure              | Hyperbolic vs. Control Cubes           | Fractals vs. Kaleidoscopes           |
-|----------------------|-----------------------------------------|--------------------------------------|
-| **Alpha Power (EEG)**| 🔻 Decreased (suggests psychedelic state)| No significant change               |
-| **LZ Complexity**    |  No significant difference      | No significant difference            |
-| **Heart Rate**       | 🔺 Increased under hyperbolic scenes     | No significant effect                |
-| **EDA**              | ❌ No significant differences            | ❌ No significant differences         |
-| **Self-Reports**     | Honeycombs rated more complex           | Fractals ≈ Kaleidoscopes in ratings  |
-
----
-
 ## 🎨 Visual Examples
 
 > *Images and topomaps from the experiment are available in the full article.*
 
 ![Sample VR Scene: Hyperbolic Honeycomb](./images/honeycomb_sample.png)  
 *Hyperbolic geometry allows more than 6 edges to meet at a single vertex.*
-
----
-
-## 🧠 Interpretation
-
-- Decrease in alpha rhythm under hyperbolic VR mirrors psychedelic-like neural states.
-- No increase in entropy (LZc) suggests cognitive load or sensory complexity, not full psychedelic replication.
-- Qualitative responses suggest meditative and altered perceptions but not full mystical states.
-
----
-# 🧠 Cyberdelics in Non-Euclidean Geometry: Is It Possible?
-
-**Exploring Psychedelic-Like Experiences in Virtual Reality**
-
-> **📄 [Read the full article (PDF)](./Cyberdelics%20VR.pdf)**  
-> *Conducted at HSE University, 2025*
-
----
-
-## 🎯 Project Overview
-
-This project explores the **psychophysiological and neural effects** of *non-Euclidean* and *fractal* geometries in virtual reality (VR).
-
-It provides:
-- **20 custom VR scenes**, divided into:
-  - 🌀 *Test (psychedelic-like)*: hyperbolic & fractal
-  - 🔲 *Control*: Euclidean cubes & kaleidoscopic patterns
-- Complete codebase for analyzing:
-  - 📊 EEG recordings
-  - ❤️‍🔥 Heart rate & electrodermal activity
-  - 🧠 Subjective reports
 
 ---
 
